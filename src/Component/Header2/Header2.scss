@@ -1,0 +1,7 @@
+$primary-text: 'blue';
+$primary-background: 'red';
+
+.title {
+    background: $primary-background;
+    color: $primary-text;
+}
